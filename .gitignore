@@ -1,0 +1,32 @@
+# === Foundry & Solidity Build Artifacts ===
+out/
+cache/
+broadcast/
+lib/
+
+# === Node.js dependencies (if using JS tooling) ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === Environment & Secrets ===
+.env
+.env.*
+!.env.example
+
+# === IDE / Editor Files ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Miscellaneous ===
+*.tmp
+*.bak
+*.pid
