@@ -1,0 +1,1 @@
+{"id":"fa475736312cc23b","source_id_to_path":{"0":"lib/chainlink-brownie-contracts/contracts/src/v0.8/shared/interfaces/AggregatorV3Interface.sol","1":"src/ETHtoUSDConverter.sol","2":"src/Fundraising.sol"},"language":"Solidity"}
